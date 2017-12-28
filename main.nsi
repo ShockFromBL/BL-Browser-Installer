@@ -31,7 +31,7 @@ CRCCheck force
 SetDateSave off
 AllowSkipFiles off
 
-VIFileVersion "1.0.0.0"
+VIFileVersion "1.0.1.0"
 VIProductVersion "0.2.1.0"
 VIAddVersionKey "ProductName" "BL-Browser for Blockland"
 VIAddVersionKey "FileDescription" "Adds support for web content in Blockland."
