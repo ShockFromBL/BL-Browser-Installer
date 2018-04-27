@@ -26,7 +26,7 @@ OutFile "BL-Browser.exe"
 RequestExecutionLevel user
 
 LicenseText "Please read the information below before installing BL-Browser for Blockland." "OK"
-LicenseData "readme.txt\"
+LicenseData "readme.txt"
 SubCaption 0 ": Read Me"
 
 CRCCheck force
