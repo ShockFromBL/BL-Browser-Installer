@@ -1,8 +1,6 @@
-BL-Browser for Blockland
-v0.2.1
-February 15th, 2017
+BL-Browser is an implementation of Awesomium for Blockland that allows you to load webpages/videos in-game.
 
-BL-Browser is a DLL which allows you to view web content such as videos and websites within Blockland. This program will attempt to install it for you.
+No add-ons are included which allow you to use the DLL's capabilities "out of the box".
 
 Created by Pah1023 :: https://github.com/Pah1023
 Installer by Shock :: https://github.com/paperworx
