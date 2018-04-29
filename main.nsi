@@ -20,7 +20,7 @@
 
 !define PRODUCT_NAME "BL-Browser for Blockland"
 !define PRODUCT_VERSION "0.2.1"
-!define FILE_VERSION "1.1.1"
+!define FILE_VERSION "1.2.0"
 
 ;------------------------------
 ;General
