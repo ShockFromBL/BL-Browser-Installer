@@ -1,3 +1,5 @@
+# **This is no longer maintained and has been superceded by [BlocklandCEF](https://github.com/paperworx/BlocklandCEF)**
+
 <p align="center">
   <img src="https://img.shields.io/badge/bl--browser-v0.2.1-orange.svg">
   <img src="https://img.shields.io/github/release/paperworx/bl-browser-installer.svg">
